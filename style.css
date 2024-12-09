@@ -10,3 +10,15 @@
     height: 100vh;
     background-color: aqua;
 }
+
+p {
+    color: blue;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+button {
+    background-color: gray;
+}
